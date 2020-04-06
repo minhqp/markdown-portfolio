@@ -1,1 +1,7 @@
-Replace this with a list of your favorite things.
+1. :soccer:
+  * Sergio Busquets
+  * Lionel Messi
+  * Andres Iniesta
+2. :cloud_with_rain
+3. :snowflake
+
